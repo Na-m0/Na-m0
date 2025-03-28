@@ -6,33 +6,35 @@ Bienvenue dans cette JUNGLE de code aha... c'est pas chatGPT qui a écrit ça. J
 
 ### 🚀 Mon parcours
 
-🎓 **Etude** : **3ème année de BUT** en informatique 
+🎓 **Etude** : **3ème année de BUT** en informatique
+
 🌐 **Site Web** : [https://na-m0.github.io](https://na-m0.github.io)
 
-### 🧑‍💻 Mes compétences techniques
+### Mes compétences techniques
 
-- **Backend** :  
-  - Node.js 🟢  
-  - PHP 💻  
-  - Java ☕  
-  - Python 🐍  
-  - Docker 🐳
-  
-- **Frontend** :  
-  - React ⚛️  
-  - Vue.js 🖥️  
-  - HTML / CSS 💅  
+#### Backend :  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="100" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" width="50" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
+  <img src="https://cours.cocadmin.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiUDRMTWtRYkNvWWRUNk5pRThaakVURWJ3IiwiZG9tYWluIjoiY291cnMuY29jYWRtaW4uY29tIn0.HogF8S6jOTzXpQgkUT95wShOUHYR5Z_iC48H1T41mOI" width="50" height="50">
 
-- **Bases de données** :  
-  - PostgreSQL 🐘  
-  - MySQL 🐬  
-  - MongoDB 🍃  
+#### Frontend :  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="50" height="50">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="40" height="50">
 
-- **Autres compétences** :  
-  - Git & GitHub 💡  
-  - Figma 🎨  
-  - Swift 🍏  
-  - Kotlin 🔥  
+#### Bases de données :  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50">
+  <img src="https://www.ideematic.com/wp-content/uploads/2018/02/mysql.png" width="80" height="70">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png" width="140" height="50">
+
+#### Autres compétences :  
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" height="50">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50">
+  <img src="https://www.shareicon.net/data/512x512/2016/07/08/117368_apple_512x512.png" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width="50" height="50">
 
 ## 🌐 Mes Projets
 
