@@ -2,7 +2,7 @@
 
 Bienvenue dans cette JUNGLE de code aha... c'est pas chatGPT qui a écrit ça. Je voulais dire, **GitHub** ! Je suis **Noam Joly-Girods**, développeur **Fullstack** qui aime tout ce qui est **applications**, **bases de données** ou encore **développement web**. Actuellement en **BUT**, je continue de perfectionner mes compétences tout en contribuant à des projets qui me plait comme ce repository.
 
-![Singe Cool](https://lh5.googleusercontent.com/proxy/NbroufcisVuqUEfBk_Skji-Yj4f_lPODGogZHlFiynncxBurjMm1jKeqOseKkmdIoL3R6hscLlzkYaVEnU_md365M_-GQKjniFZEZ_oln1Lq)
+<img src="https://lh5.googleusercontent.com/proxy/NbroufcisVuqUEfBk_Skji-Yj4f_lPODGogZHlFiynncxBurjMm1jKeqOseKkmdIoL3R6hscLlzkYaVEnU_md365M_-GQKjniFZEZ_oln1Lq">
 
 ### 🚀 Mon parcours
 
