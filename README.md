@@ -6,7 +6,7 @@ Bienvenue dans cette JUNGLE de code aha... c'est pas chatGPT qui a écrit ça. J
 
 🎓 **Etude** : **3ème année de BUT** en informatique
 
-🌐 **Site Web** : [https://na-m0.github.io](https://na-m0.github.io)
+🌐 **Site Web** : [https://noamjg.fr](https://noamjg.fr)
 
 ### Mes compétences techniques
 
