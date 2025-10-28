@@ -1,10 +1,10 @@
-# 🐒 Noam Joly-Girods - Fullstack Developer & Application Specialist
+# Noam Joly-Girods - Fullstack Developer & Application Specialist
 
-Bienvenue dans cette JUNGLE de code aha... c'est pas chatGPT qui a écrit ça. Je voulais dire, **GitHub** ! Je suis **Noam Joly-Girods**, développeur **Fullstack** qui aime tout ce qui est **applications**, **bases de données** ou encore **développement web**. Actuellement en **BUT**, je continue de perfectionner mes compétences tout en contribuant à des projets qui me plait comme ce repository.
+Bienvenue dans cette JUNGLE de code aha... Je suis **Noam Joly-Girods**, développeur **Fullstack** qui aime tout ce qui est **applications**, **bases de données** et **développement web**. Actuellement à **Epitech**, je continue de perfectionner mes compétences tout en contribuant à des projets qui me plait comme ce repository.
 
 ### 🚀 Mon parcours
 
-🎓 **Etude** : **3ème année de BUT** en informatique
+🎓 **Etude** : **1 ère année de Master** en informatique
 
 🌐 **Site Web** : [https://noamjg.fr](https://noamjg.fr)
 
