@@ -1,13 +1,3 @@
-# Noam Joly-Girods - Fullstack Developer & Application Specialist
-
-Bienvenue dans cette JUNGLE de code aha... Je suis **Noam Joly-Girods**, développeur **Fullstack** qui aime tout ce qui est **applications**, **bases de données** et **développement web**. Actuellement à **Epitech**, je continue de perfectionner mes compétences tout en contribuant à des projets qui me plait comme ce repository.
-
-### 🚀 Mon parcours
-
-🎓 **Etude** : **1 ère année de Master** en informatique
-
-🌐 **Site Web** : [https://noamjg.fr](https://noamjg.fr)
-
 ### Mes compétences techniques
 
 #### Backend :  
@@ -55,14 +45,9 @@ N'hésitez pas à jeter un œil à mes projets et à me donner vos retours ou à
 
 ---
 
-### 🚀 Objectifs futurs
-Je continue mes études pour me spécialiser dans le développement d'applications et la gestion de données. Si vous voulez me soutenir vous pouvez me contacter via mes réseaux, je reste ouvert à toute proposition.
-
 ## 📈 Mes réseaux
 
 - **LinkedIn** : [Noam Joly-Girods LinkedIn](https://www.linkedin.com/in/noam-joly-girods-3a27b62a4/)
-- **X** : [@NoamJolyGirods](https://x.com/NGirods)
-
 ---
 
 ### 🔥 Quelques Fun Facts
